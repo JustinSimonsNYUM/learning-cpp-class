@@ -1,0 +1,23 @@
+=======================================
+
+Report Card for George P. Burdell
+Algebra: B
+Physics: A
+English: C
+GPA: 3.08333
+=======================================
+
+Report Card for Nancy Rhodes
+Algebra: A
+Physics: A
+Economics: B
+GPA: 3.69231
+=======================================
+
+Report Card for John Appleseed
+Algebra: A
+English: B
+Economics: C
+Science: B
+GPA: 3.05882
+=======================================

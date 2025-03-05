@@ -7,6 +7,10 @@
 
 int main(){
 
+    int a = 89;
+    int *ptr = &a;
+    std::cout << ptr << std::endl;
+    std::cout << *ptr << std::endl;
     std::cout << std::endl << std::endl;
     return (0);
 }
